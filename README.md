@@ -90,7 +90,7 @@ How to Run
 
 Clone this repository to your local machine:
 
-'git clone https://github.com/shanmugabharathym/agentic-reasoning-tool-use.git'
+'git clone https://github.com/Shanmugabharathym/agentic-reasoning-tool-use.git'
 
 Install the required dependencies:
 
